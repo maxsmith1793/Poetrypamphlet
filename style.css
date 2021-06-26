@@ -7,7 +7,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-image:  url(./assets/janko-ferlic-sfL_QOnmy00-unsplash.jpg), linear-gradient(to right, rgb(101, 241, 241), rgb(253, 247, 247));
+    background-image:  url(./assets/janko-ferlic-sfL_QOnmy00-unsplash.jpg);
     background-size: cover;
     background-position: center right;
     background-repeat: no-repeat;
@@ -144,6 +144,14 @@ article p,  article h3 {
         
         margin: 4px auto;
         
+    }
+
+    header .creator{
+        position: initial; 
+    }
+
+    header {
+        align-items: center;
     }
 
 
