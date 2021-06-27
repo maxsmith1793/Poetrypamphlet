@@ -1,4 +1,4 @@
-body {font-family:Verdana, Geneva, Tahoma, sans-serif;
+body {font-family: 'Esteban', serif;
     background-color: rgb(18, 1, 68);
 }
 
@@ -152,6 +152,15 @@ article p,  article h3 {
 
     header {
         align-items: center;
+    }
+    
+
+    hr {
+        margin: 20px 0px;
+    }
+
+    article {
+        width: 100%;
     }
 
 
