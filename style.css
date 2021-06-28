@@ -13,7 +13,7 @@ header {
     background-repeat: no-repeat;
     padding: 10px;
     border-radius: 10px;
-    
+    margin: auto;
     
     color:white;
 }
@@ -116,11 +116,12 @@ article img {
 article blockquote {
     display: block;
     background-color: rgb(255, 243, 197);
-    width: fit-content;
+    width: 75%;
     border-radius: 10px;
     margin: 10px auto;
     padding: 32px;
     font-weight: 400;
+    
 
 }
 
